@@ -1,0 +1,8 @@
+{
+  "file": "src/App.css",
+  "check": "PostCSS syntax parse",
+  "passed": true,
+  "rules": 234,
+  "declarations": 699,
+  "note": "Local syntax check; not a substitute for the required external W3C validator evidence."
+}

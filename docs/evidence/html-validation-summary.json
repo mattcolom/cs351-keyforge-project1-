@@ -1,0 +1,51 @@
+[
+  {
+    "file": "rendered-account.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  },
+  {
+    "file": "rendered-product-1.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  },
+  {
+    "file": "rendered-cart.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  },
+  {
+    "file": "rendered-create-account.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  },
+  {
+    "file": "rendered-shop.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  },
+  {
+    "file": "index.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  },
+  {
+    "file": "rendered-home.html",
+    "errors": 0,
+    "warnings": 0,
+    "messages": [],
+    "anonymized": true
+  }
+]

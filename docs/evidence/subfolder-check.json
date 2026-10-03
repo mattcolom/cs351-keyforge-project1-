@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": [
+    "Built app loads from project1/index.html",
+    "Relative JavaScript, CSS and product images resolve",
+    "Direct product hash route opens and survives reload"
+  ],
+  "consoleErrors": []
+}
